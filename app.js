@@ -35,7 +35,7 @@ const submitButton =
    GOOGLE APPS SCRIPT API
 ========================================================= */
 
-const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/library/d/1_KP5D7Nw4z_eOrnu-lG1rMMy0lN5DP7QdOrYWHWk25cX3IY8fWOuk36Z/3";
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwYUeCJ16d_GKKM-vA9t0Vg6huyv5X-NpDyWZseGBCxlO7A45QrCnZL4iL5e2AQdb2zIA/exec";
 
 /* =========================================================
    MOBILE MENU
